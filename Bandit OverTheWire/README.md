@@ -8,7 +8,7 @@ A Beginner / Intermediate **Linux CTF**
 
 Contents
 ======
-* [Level 0 to 1](https://github.com/poodle/CTFs/tree/master/Bandit%20OverTheWire/Level%200-1)
+* [Level 0 -> 1](https://github.com/poodle/CTFs/tree/master/Bandit%20OverTheWire/Level%200-1)
 * Level 1 -> 2
 * Level 2 -> 3
 * Level 3 -> 4
