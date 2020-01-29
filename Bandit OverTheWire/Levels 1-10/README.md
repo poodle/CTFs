@@ -1,5 +1,7 @@
 # Bandit OverTheWire
 
+## Levels 1 - 10
+
 Beginner / Intermediate **Linux CTF**
 
 Contents
