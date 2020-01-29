@@ -8,7 +8,7 @@ This level taught be about reading hidden files in Linux and how to find them us
 
 Code Used
 ------
-```bash
+```shell
 ls
 cd inhere
 ls -a
