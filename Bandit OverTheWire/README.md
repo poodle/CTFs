@@ -4,7 +4,7 @@ Beginner / Intermediate **Linux CTF**
 
 Contents
 ======
-* Level 0 to 1
+* [Level 0 to 1](..CTFs/Bandit OverTheWire/Level 0-1/README.md)
 * Level 1 to 2
 * Level 2 to 3
 * Level 3 to 4
