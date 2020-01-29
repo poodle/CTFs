@@ -1,4 +1,4 @@
-# Level 1 to 2
+# Level 3 to 4
 
 ## Level Goal
 > The password for the next level is stored in a hidden file in the 'inhere' directory.
@@ -10,5 +10,7 @@ Code Used
 ------
 ```bash
 ls
-cat ./-
+cd inhere
+ls -a
+cat .hidden
 ```
