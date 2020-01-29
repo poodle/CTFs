@@ -1,10 +1,10 @@
 # Bandit OverTheWire
 
+### [Website](https://overthewire.org/wargames/bandit/)
+
 A Beginner / Intermediate **Linux CTF**
 
 > The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
-
-[Website](https://overthewire.org/wargames/bandit/)
 
 Contents
 ======
