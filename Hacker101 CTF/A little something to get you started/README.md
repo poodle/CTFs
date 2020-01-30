@@ -6,8 +6,8 @@
 
 ## Process
 ### Flag (1/1)
-1. Inspect Page
-> ![Screenshot](https://i.imgur.com/lOUXeQj.png)
+1. Inspect Page\
+![Screenshot](https://i.imgur.com/lOUXeQj.png)\
 You will see that the only code on the page is:
 ```CSS
 			body {
@@ -15,9 +15,9 @@ You will see that the only code on the page is:
 			}
 ```
 
-2. Go to 'background.png'
-> ![Screenshot](https://i.imgur.com/B5Bm8Rv.png)
+2. Go to 'background.png'\
+![Screenshot](https://i.imgur.com/B5Bm8Rv.png)\
 Append 'background.png' to the end of the URL.
 
-3. Get the Flag!
-> ![Screenshot](https://i.imgur.com/AQudvJb.png)
+3. Get the Flag!\
+![Screenshot](https://i.imgur.com/AQudvJb.png)
