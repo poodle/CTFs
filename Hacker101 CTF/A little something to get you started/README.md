@@ -12,4 +12,6 @@
 2. Go to 'background.png'
 > ![Screenshot](https://i.imgur.com/B2X4WP0.png)
 
-3. Get Flag!
+3. Get the Flag!
+
+> ![Screenshot](https://i.imgur.com/AQudvJb.png)
