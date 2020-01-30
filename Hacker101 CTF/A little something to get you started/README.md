@@ -5,18 +5,23 @@
 * Skills: **Web**
 
 ## Process
-### Flag (1/1)
-1. Inspect Page\
-![Screenshot](https://i.imgur.com/lOUXeQj.png)\
-You will see that the only code on the page is:
+
+Firstly, I tried to inspect the page, since it was pretty empty. I instantly noticed this:  
+
+![Screenshot](https://i.imgur.com/B5Bm8Rv.png)  
+
+You will see that the only code on the page is:  
+
 ```CSS
 body {
 	background-image: url("background.png");
 }
-```
-2. Go to 'background.png'\
-![Screenshot](https://i.imgur.com/B5Bm8Rv.png)\
-Append 'background.png' to the end of the URL.
+```  
 
-3. Get the Flag!\
+So, after coming to the conclusion that this *.png* file was the only place that could store the flag, I decided to check whats inside of it. So I appended *background.png* to the URL:  
+
+![Screenshot](https://i.imgur.com/B5Bm8Rv.png
+
+And there was the flag!  
+
 ![Screenshot](https://i.imgur.com/AQudvJb.png)
