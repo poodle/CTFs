@@ -2,7 +2,7 @@
 
 Contents
 ======
-* [Level 0 to 1](https://github.com/poodle/CTFs/tree/master/Bandit%20OverTheWire/Level%200-1)
+* [Level 10 to 11](https://github.com/poodle/CTFs/tree/master/Bandit%20OverTheWire/Levels%2011-20/Level%2010-11)
 * Level 11 to 12
 * Level 12 to 13
 * Level 13 to 14
