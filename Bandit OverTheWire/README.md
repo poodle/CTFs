@@ -1,4 +1,4 @@
-# Bandit OverTheWire
+# OverTheWire - Bandit
 
 ### [Website](https://overthewire.org/wargames/bandit/)
 
