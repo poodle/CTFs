@@ -7,6 +7,6 @@
 Contents
 ======
 * [Level 1](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/A%20little%20something%20to%20get%20you%20started) - _"A little something to get you started"_
-* [Level 2]() - _"Micro-CMS v1"_
+* [Level 2](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1) - _"Micro-CMS v1"_
 * [Level 3]() - _"Micro-CMS v2"_
 * [Level 4]() - _"Postbook"_
