@@ -4,8 +4,8 @@
 * Flags Available: **1**
 * Skills: **Web**
 
-#Flag [1/1]
------------
+# Flag [1/1]
+
 ## Process
 
 Firstly, I tried to inspect the page, since it was pretty empty. I instantly noticed this:  
