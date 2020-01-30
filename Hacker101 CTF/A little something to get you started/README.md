@@ -18,7 +18,7 @@ body {
 }
 ```  
 
-So, after coming to the conclusion that this *.png* file was the only place that could store the flag, I decided to check whats inside of it. So I appended *background.png* to the URL:  
+So, after coming to the conclusion that this ```.png``` file was the only place that could store the flag, I decided to check whats inside of it. So I appended ```background.png``` to the URL:  
 
 ![Screenshot](https://i.imgur.com/B5Bm8Rv.png)
 
