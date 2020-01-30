@@ -2,7 +2,7 @@
 
 ## Process
 
-After viewing all of the existing pages on the challenge, I then attempted to append the page id to see if there were any hidden pages. And low and behold, I hit 6 - the forbidden page.
+After viewing all of the existing pages on the challenge, I then attempted to mess around with the page ID parameter to see if there were any hidden pages. And low and behold, I hit page 6 - the forbidden page.
 
 ![Screenshot](https://i.imgur.com/qD93Eri.png)
 
