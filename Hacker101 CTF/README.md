@@ -6,7 +6,7 @@
 
 Contents
 ======
-* [Level 1]() *	"A little something to get you started" *
-* [Level 2]() * "Micro-CMS v1" *
-* [Level 3]() * "Micro-CMS v2" *
-* [Level 4]() * "* "Postbook" *
+* [Level 1]() _"A little something to get you started"_
+* [Level 2]() _"Micro-CMS v1"_
+* [Level 3]() _"Micro-CMS v2"_
+* [Level 4]() _"* "Postbook"_
