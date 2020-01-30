@@ -7,13 +7,13 @@
 
 ## Process
 1. Inspect Page
-⋅⋅1. ![Screenshot](https://i.imgur.com/Zjawfha.png)
+![Screenshot](https://i.imgur.com/Zjawfha.png)
 
-------
+
 
 2. Go to 'background.png'
-⋅⋅2. ![Screenshot](https://i.imgur.com/B2X4WP0.png)
+![Screenshot](https://i.imgur.com/B2X4WP0.png)
 
-------
+
 
 3. Get Flag!
