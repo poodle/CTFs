@@ -4,7 +4,7 @@
 > The credentials for the next level can be retrieved by submitting the password of the current level to a port on localhost in the range 31000 to 32000. First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
 
 ## Comments
-just like the other harder levels, this actually taught me a lot of useful skills that I learned the hard way. Some things I used for this level include things like scanning open ports with 'nmap', creating and editing files using 'vim', 'openssl', file permissions using 'chmod' and more. I really enjoyed this level because it has several steps and forced me to think on my feet and outside of the box. For example, when I first created the 'sshkey.private' it wouldn't allow me to use it due to the file being too open (i.e bad file permissions), so I had to change the permissions of the file to 400 so that I was able to use it when using SSL.
+Very similar to the previous level, except now using an MD5 hash.
 
 Code Used
 ------
