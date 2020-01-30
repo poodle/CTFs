@@ -6,9 +6,9 @@
 
 ## Process
 1. Inspect Page
-![Screenshot](https://i.imgur.com/Zjawfha.png)
+> ![Screenshot](https://i.imgur.com/Zjawfha.png)
 
 2. Go to 'background.png'
-![Screenshot](https://i.imgur.com/B2X4WP0.png)
+> ![Screenshot](https://i.imgur.com/B2X4WP0.png)
 
 3. Get Flag!
