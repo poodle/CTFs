@@ -8,5 +8,3 @@ Contents
 ======
 * Binary Exploitation
     * [handy-shellcode](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1)
-    * [practice-run-1](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1)
-    * [OverFlow 0](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1)
