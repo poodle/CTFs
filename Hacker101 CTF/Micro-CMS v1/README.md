@@ -8,5 +8,3 @@ Flags
 ======
 * [Flag 01](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1/Flag%2001)
 * [Flag 02](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1/Flag%2002)
-* [Flag 03](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1/Flag%2003)
-* [Flag 04](https://github.com/poodle/CTFs/tree/master/Hacker101%20CTF/Micro-CMS%20v1/Flag%2004)
